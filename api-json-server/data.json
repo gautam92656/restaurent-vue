@@ -1,0 +1,30 @@
+{
+  "user": [
+    {
+      "name": "jay",
+      "surname": "patel",
+      "from": "ahmedabad",
+      "country": "pakistan",
+      "id": 1
+    },
+    {
+      "name": "gautam",
+      "surname": "patel",
+      "from": "lathi",
+      "country": "pakistan",
+      "id": 2
+    },
+    {
+      "username": "ga",
+      "email": "ga@test.com",
+      "password": "dfjb",
+      "id": 3
+    },
+    {
+      "username": "vivek",
+      "email": "vivek@test.com",
+      "password": "vivek2123",
+      "id": 4
+    }
+  ]
+}
